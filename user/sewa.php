@@ -108,19 +108,19 @@ if (isset($_POST['sewa'])) {
         <form method="POST" class="space-y-4">
             <!-- Input Alamat -->
             <div>
-                <label class="block text-sm font-medium text-gray-700 mb-1">Alamat</label>
-                <input type="text" name="alamat" 
-                    class="w-full rounded-lg border border-gray-400 bg-white shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500" 
+            <label class="block text-sm font-medium text-gray-700 mb-1">Alamat</label>
+            <input type="text" name="alamat" 
+                    class="w-full rounded-lg border border-gray-400 bg-white shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 px-3 py-2"
                     value="<?= htmlspecialchars($pelanggan['alamat']) ?>" required>
             </div>
 
             <!-- Input Nomor HP -->
-            <div>
+                <div>
                 <label class="block text-sm font-medium text-gray-700 mb-1">Nomor HP</label>
                 <input type="text" name="nomor" 
-                    class="w-full rounded-lg border border-gray-400 bg-white shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500" 
-                    value="<?= htmlspecialchars($pelanggan['nomor']) ?>" required>
-            </div>
+                        class="w-full rounded-lg border border-gray-400 bg-white shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 px-3 py-2"
+                        value="<?= htmlspecialchars($pelanggan['nomor']) ?>" required>
+                </div>
 
             <hr class="my-4">
 

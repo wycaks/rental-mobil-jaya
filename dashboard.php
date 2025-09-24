@@ -31,6 +31,12 @@ $role_id = $_SESSION['role_id']; // 1 = admin, 2 = user
       <p class="text-sm text-blue-200">
         <?= ($role_id == 1) ? "Admin" : "User"; ?>
       </p>
+
+      <!-- Tambahan alamat rental -->
+      <div class="mt-4 text-sm text-blue-100">
+        <p class="font-semibold">Alamat Rental:</p>
+        <p>Jl. cendana No. 45, kec.majalaya ,des. bengle,kab. Karawang</p>
+      </div>
     </div>
     <nav class="flex-1 px-4 py-6 space-y-2">
       <?php if ($role_id == 1) { ?>
