@@ -74,3 +74,8 @@ uploads/
 ---
 
 &copy; <?= date("Y") ?> Rental Mobil Jaya
+
+## 🗃️ screenshot
+
+![alt text](<Cuplikan layar 2025-09-17 110631.png>) ![alt text](<Cuplikan layar 2025-09-24 122110.png>) ![alt text](<Cuplikan layar 2025-09-24 122223 - Salin.png>)
+---
