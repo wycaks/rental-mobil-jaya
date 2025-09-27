@@ -78,3 +78,12 @@ uploads/
 ## 🗃️ screenshot
 
 ![alt text](</auth/Cuplikan layar 2025-09-17 110631.png>) ![alt text](</auth/Cuplikan layar 2025-09-24 122110.png>) ![alt text](</auth/Cuplikan layar 2025-09-24 122223 - Salin.png>)
+
+📂 flowchart
+
+![Flowchart](Untitled%20diagram%20_%20Mermaid%20Chart-2025-09-23-054650.png)
+
+📂 figma
+
+![figma]
+  (https://www.figma.com/design/vmjvnNn84kKiX4kZM8pLxp/Untitled?node-id=0-1&t=OJx22GSRm9kBXtLd-1)
